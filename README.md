@@ -30,7 +30,6 @@ __Solve Real Problem at AlgoExpert__ :
 
 - Reviewing famous algorithms
 
-- 
 
 
 __Software Engineer at Armin Robotics (Since 2023)__
