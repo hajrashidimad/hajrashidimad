@@ -11,6 +11,7 @@ __2011 - 2014__ : &nbsp; `Mechanical engineer from University of Aleppo`\
 __2018 - 2023__ : &nbsp; `Bachelor in electromechanics at ISL Liège`\
 __2020 - 2021__ : &nbsp; `Artificial intelligence/ data operator at Becode Liège`\
 __2022 - 2023__ : &nbsp; `AlgoExpert platform` &nbsp; '__[AlgoExpert](https://www.algoexpert.io/product)__,&nbsp; __[FrontEndExpert](https://www.algoexpert.io/frontend/product)__, &nbsp; __[SystemExpert](https://www.algoexpert.io/systems/product)__'
+__2023 - 202x__ : &nbsp; `Armin robotics`
 
 # :office_worker: Professional experience
 __Formation - IA  at  Becode__ :
